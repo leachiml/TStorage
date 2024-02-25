@@ -1,4 +1,4 @@
-package tstorage
+package partition
 
 type fakePartition struct {
 	minT      int64

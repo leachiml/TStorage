@@ -1,4 +1,4 @@
-package tstorage
+package label
 
 import (
 	"testing"

@@ -1,4 +1,4 @@
-package tstorage
+package partitionlist
 
 import (
 	"fmt"

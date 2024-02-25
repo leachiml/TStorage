@@ -1,4 +1,4 @@
-# TStorage [![Go Reference](https://pkg.go.dev/badge/mod/github.com/nakabonne/tstorage.svg)](https://pkg.go.dev/mod/github.com/nakabonne/tstorage)
+# TStorage [![Go Reference](https://pkg.go.dev/badge/mod/github.com/leachiml/tstorage.svg)](https://pkg.go.dev/mod/github.com/leachiml/tstorage)
 
 `tstorage` is a lightweight local on-disk storage engine for time-series data with a straightforward API.
 Especially ingestion is massively optimized as it provides goroutine safe capabilities of write into and read from TSDB that partitions data points by time.

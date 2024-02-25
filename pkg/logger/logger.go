@@ -1,4 +1,4 @@
-package tstorage
+package logger
 
 // TODO: Think about another abstraction way
 

@@ -1,4 +1,4 @@
-package tstorage
+package gorilla
 
 type fakeEncoder struct {
 	encodePointFunc func(*DataPoint) error

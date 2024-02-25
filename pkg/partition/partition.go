@@ -1,4 +1,4 @@
-package tstorage
+package partition
 
 // partition is a chunk of time-series data with the timestamp range.
 // A partition acts as a fully independent database containing all data

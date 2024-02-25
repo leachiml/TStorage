@@ -1,4 +1,4 @@
-package tstorage
+package wal
 
 import (
 	"bufio"
