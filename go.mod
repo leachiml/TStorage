@@ -1,6 +1,6 @@
-module github.com/nakabonne/tstorage
+module github.com/leachiml/tstorage
 
-go 1.20
+go 1.22
 
 require github.com/stretchr/testify v1.7.0
 
